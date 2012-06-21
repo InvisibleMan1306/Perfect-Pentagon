@@ -1,0 +1,1 @@
+	This program creates a perfect pentagon then creates a perfect 5 point star inside the pentagon. Then inside that star a perfect pentagon is created. The question is what is the ration between the two pentagons in terms of area or side length. This implementation contains a function which tries to calculate the intersection of 2 lines, harder than it seems.   
